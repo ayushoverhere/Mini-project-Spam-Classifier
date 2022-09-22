@@ -1,11 +1,8 @@
 
   
 #  🔥Mini-project-Spam-Classifier
-  
 
  ![Untitled.png](https://i.postimg.cc/sgx5XrXW/Untitled.png)
- 
-
 The reason to do this is simple: by detecting unsolicited and unwanted emails/sms, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience and protecting them from threats and malware.
 
 ##Getting Started
@@ -20,9 +17,8 @@ Steps performed
 * Hyperparameter tuning(tried all models with voting and stacking)
 * Used Heroku to showcase in the HTML
 * Deployed in Heroku
-## Description
 
-# Email-Sms-Spam-or-Ham-Classifier
+## Description
 
 ![image](https://miro.medium.com/max/1400/1*mzV-OS06C68MRDkI-xaLbA.jpeg)
 
