@@ -3,9 +3,7 @@
 #  🔥Mini-project-Spam-Classifier
   
   <br />
-  <a href="https://ibb.co/ySG65nk"
-    ><img
-      src="https://ibb.co/VS5nSGt"
+  <a href="https://ibb.co/VS5nSGt"><img src="https://i.ibb.co/VS5nSGt/Untitled.png" alt="Untitled" border="0"></a>
       alt="Screenshot of project"
       border="0"
   /></a>
@@ -30,7 +28,7 @@ Steps performed
 
 # Email-Sms-Spam-or-Ham-Classifier
 
-![image](https://user-images.githubusercontent.com/37560890/159529916-3e94cbe8-bfd7-4d2e-83ef-6dec48b99c10.png)
+![image](https://miro.medium.com/max/1400/1*mzV-OS06C68MRDkI-xaLbA.jpeg)
 
 ### [ Step - I ] . Importing the required lib's and data cleaning
 
