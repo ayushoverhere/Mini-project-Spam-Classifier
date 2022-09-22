@@ -3,7 +3,8 @@
 #  🔥Mini-project-Spam-Classifier
 
  ![Untitled.png](https://i.postimg.cc/sgx5XrXW/Untitled.png)
-The reason to do this is simple: by detecting unsolicited and unwanted emails/sms, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience and protecting them from threats and malware.
+ 
+###The reason to do this is simple: by detecting unsolicited and unwanted emails/sms, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience and protecting them from threats and malware.
 
 ##Getting Started
 We used the Kaggle spam data to build a spam filter classifier.
