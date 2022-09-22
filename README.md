@@ -3,9 +3,7 @@
 #  🔥Mini-project-Spam-Classifier
   
   <br />
-  <a href="https://ibb.co/VS5nSGt"><img src="https://i.ibb.co/VS5nSGt/Untitled.png" alt="Untitled" border="0"></a>
-      alt="Screenshot of project"
-      border="0"
+  [![Untitled.png](https://i.postimg.cc/sgx5XrXW/Untitled.png)](https://postimg.cc/PCGC301f)
   /></a>
 </h1>
 
