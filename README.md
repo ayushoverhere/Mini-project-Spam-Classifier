@@ -2,8 +2,6 @@
   
 #  🔥Mini-project-Spam-Classifier
 
- ![Untitled.png](https://i.postimg.cc/sgx5XrXW/Untitled.png)  The reason to do this is simple: by detecting unsolicited and unwanted emails/sms, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience and protecting them from threats and malware.
-
 ##Getting Started
 We used the Kaggle spam data to build a spam filter classifier.
 The engine will display whether the provided message is spam or ham.
@@ -16,6 +14,10 @@ Steps performed
 * Hyperparameter tuning(tried all models with voting and stacking)
 * Used Heroku to showcase in the HTML
 * Deployed in Heroku
+
+ ![Untitled.png](https://i.postimg.cc/sgx5XrXW/Untitled.png)  The reason to do this is simple: by detecting unsolicited and unwanted emails/sms, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience and protecting them from threats and malware.
+
+
 
 ## Description
 
