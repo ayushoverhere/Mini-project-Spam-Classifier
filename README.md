@@ -1,7 +1,7 @@
 
   
 #  🔥Mini-project-Spam-Classifier
- ![Untitled.png](https://i.ibb.co/WvZ6KPx/Spam-classifier.png)
+ <img src="https://i.ibb.co/WvZ6KPx/Spam-classifier.png" style="width: 1000px; height: 500px"/>
 ## Description
 The reason to do this is simple: by detecting unsolicited and unwanted emails/sms, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience and protecting them from threats and malware.
 ## Getting Started
